@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\40a556f9f033a32a2d7c9beda47cbec0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\b7de2a27fe318d0c29bc0459b95eb96c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\bb704f2438022b5cad36dd9fa0ec021c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\185150962964f02406f2631c42ce990f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\75a8ffc4406c584d4e5c4eb701ba4faf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\5294a5eaeb78a49e1a1c2c7cdea18f80\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\afdd57a5b219cf06522e06a94b334aa8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\88af5d21a5688989aa3a9923ac014a70\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\069adc4d9b812fa26504772db1358cab\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3ba83c09ee7819d45191c48ee3cfd4b7\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\40a556f9f033a32a2d7c9beda47cbec0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\40a556f9f033a32a2d7c9beda47cbec0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\bb704f2438022b5cad36dd9fa0ec021c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\bb704f2438022b5cad36dd9fa0ec021c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\185150962964f02406f2631c42ce990f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\185150962964f02406f2631c42ce990f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\75a8ffc4406c584d4e5c4eb701ba4faf\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\75a8ffc4406c584d4e5c4eb701ba4faf\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\5294a5eaeb78a49e1a1c2c7cdea18f80\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\5294a5eaeb78a49e1a1c2c7cdea18f80\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\afdd57a5b219cf06522e06a94b334aa8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\afdd57a5b219cf06522e06a94b334aa8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\88af5d21a5688989aa3a9923ac014a70\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\88af5d21a5688989aa3a9923ac014a70\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\069adc4d9b812fa26504772db1358cab\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\069adc4d9b812fa26504772db1358cab\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3ba83c09ee7819d45191c48ee3cfd4b7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3ba83c09ee7819d45191c48ee3cfd4b7\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.rohit.android.data.MainActivity
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.rohit.android.data.DetailedActivity
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:parentActivityName
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:20:12-54
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:19:19-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:23:13-25:48
+	android:value
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:25:17-46
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml:24:17-63
+uses-sdk
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\40a556f9f033a32a2d7c9beda47cbec0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\40a556f9f033a32a2d7c9beda47cbec0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\b7de2a27fe318d0c29bc0459b95eb96c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\b7de2a27fe318d0c29bc0459b95eb96c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\bb704f2438022b5cad36dd9fa0ec021c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\bb704f2438022b5cad36dd9fa0ec021c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\185150962964f02406f2631c42ce990f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\185150962964f02406f2631c42ce990f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\75a8ffc4406c584d4e5c4eb701ba4faf\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\75a8ffc4406c584d4e5c4eb701ba4faf\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\5294a5eaeb78a49e1a1c2c7cdea18f80\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\5294a5eaeb78a49e1a1c2c7cdea18f80\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\afdd57a5b219cf06522e06a94b334aa8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\afdd57a5b219cf06522e06a94b334aa8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\88af5d21a5688989aa3a9923ac014a70\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\88af5d21a5688989aa3a9923ac014a70\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\069adc4d9b812fa26504772db1358cab\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\069adc4d9b812fa26504772db1358cab\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3ba83c09ee7819d45191c48ee3cfd4b7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3ba83c09ee7819d45191c48ee3cfd4b7\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\6a6c6d317b4d13fef63eae8ce51e064f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\My Android Projects\RecyclerViewWithRawImages\app\src\main\AndroidManifest.xml
